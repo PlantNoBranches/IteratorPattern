@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Iterator Pattern Example.props" />
+</Project>

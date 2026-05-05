@@ -1,0 +1,25 @@
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/appsettings.Development.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/appsettings.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/Iterator Pattern Example
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/Iterator Pattern Example.deps.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/Iterator Pattern Example.runtimeconfig.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/Iterator Pattern Example.dll
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/bin/Debug/net8.0/Iterator Pattern Example.pdb
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.AssemblyInfoInputs.cache
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.AssemblyInfo.cs
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.csproj.CoreCompileInputs.cache
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.MvcApplicationPartsAssemblyInfo.cache
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets.build.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets.development.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets/msbuild.Iterator Pattern Example.Microsoft.AspNetCore.StaticWebAssets.props
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets/msbuild.build.Iterator Pattern Example.props
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Iterator Pattern Example.props
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Iterator Pattern Example.props
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/staticwebassets.pack.json
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/scopedcss/bundle/Iterator Pattern Example.styles.css
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.dll
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/refint/Iterator Pattern Example.dll
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.pdb
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/Iterator Pattern Example.genruntimeconfig.cache
+/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/Debug/net8.0/ref/Iterator Pattern Example.dll
