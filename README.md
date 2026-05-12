@@ -5,4 +5,4 @@ Aufgaben:
 
 Falls zu einfach / schon fertig:
 
-4. Iterator implementieren, der über einen Tree iteriert
+3. Iterator implementieren, der über einen Tree iteriert
