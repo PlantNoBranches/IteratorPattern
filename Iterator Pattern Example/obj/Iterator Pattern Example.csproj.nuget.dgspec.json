@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/Iterator Pattern Example.csproj": {}
+    "/home/plant/Desktop/Endless Comfort (Ver1_0_2 Linux)/Iterator Pattern/IteratorPattern/Iterator Pattern Example/Iterator Pattern Example.csproj": {}
   },
   "projects": {
-    "/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/Iterator Pattern Example.csproj": {
+    "/home/plant/Desktop/Endless Comfort (Ver1_0_2 Linux)/Iterator Pattern/IteratorPattern/Iterator Pattern Example/Iterator Pattern Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/Iterator Pattern Example.csproj",
+        "projectUniqueName": "/home/plant/Desktop/Endless Comfort (Ver1_0_2 Linux)/Iterator Pattern/IteratorPattern/Iterator Pattern Example/Iterator Pattern Example.csproj",
         "projectName": "Iterator Pattern Example",
-        "projectPath": "/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/Iterator Pattern Example.csproj",
+        "projectPath": "/home/plant/Desktop/Endless Comfort (Ver1_0_2 Linux)/Iterator Pattern/IteratorPattern/Iterator Pattern Example/Iterator Pattern Example.csproj",
         "packagesPath": "/home/plant/.nuget/packages/",
-        "outputPath": "/home/plant/Desktop/Iterator Pattern Example/Iterator Pattern Example/obj/",
+        "outputPath": "/home/plant/Desktop/Endless Comfort (Ver1_0_2 Linux)/Iterator Pattern/IteratorPattern/Iterator Pattern Example/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/plant/.nuget/NuGet/NuGet.Config"

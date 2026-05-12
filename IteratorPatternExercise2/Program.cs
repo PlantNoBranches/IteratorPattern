@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace IteratorPatternExample
+namespace IteratorPatternReverse
 {
     abstract class Iterator : IEnumerator
     {
@@ -35,18 +35,7 @@ namespace IteratorPatternExample
 
         public override bool MoveNext()
         {
-            int nextIndex = currentIndex + 1;
-            bool hasNextSong = nextIndex >= 0 && nextIndex < playlist.GetSongs().Count;
-
-            if (hasNextSong)
-            {
-                currentIndex = nextIndex;
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+ 
         }
 
         public override void Reset()
